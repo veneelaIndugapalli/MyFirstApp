@@ -1,6 +1,6 @@
 # MyFirstApp
 ## Veneela
-###nIndugapalli
+### Indugapalli
 *Sony*
 _Sathwik_
 **Sam**
